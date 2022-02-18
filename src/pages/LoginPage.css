@@ -1,0 +1,82 @@
+.contenido {
+  background: #a7d7c5;
+  background-image: url(/src/images/Rectangle\ 7.png),
+    url(/src/images/Rectangle\ 8.png);
+  background-repeat: no-repeat;
+  background-position: right bottom, top left;
+  display: flex;
+  justify-content: center;
+}
+.cuadrito {
+  display: flex;
+  justify-content: center;
+  height: 510px;
+  width: 455px;
+  border-radius: 32px;
+  margin-top: 131px;
+  margin-bottom: 131px;
+  background: #f6fbf9;
+  font-family: "Karla", sans-serif;
+}
+.texto {
+  text-align: center;
+}
+.email {
+  display: flex;
+  align-items: center;
+  height: 55px;
+  width: 375px;
+  left: 4266px;
+  top: 320px;
+  border-radius: 10px;
+  margin-top: 15px;
+  background: #ffffff;
+  color: #00000080;
+}
+.name {
+  display: flex;
+  align-items: center;
+  height: 55px;
+  width: 375px;
+  left: 4266px;
+  top: 320px;
+  border-radius: 10px;
+  margin-top: 32px;
+  background: #ffffff;
+  color: #00000080;
+}
+.password {
+  display: flex;
+  align-items: center;
+  height: 55px;
+  width: 375px;
+  border-radius: 10px;
+  margin-top: 15px;
+  background: #ffffff;
+  color: #00000080;
+}
+.button {
+  font-family: "Karla", sans-serif;
+  font-weight: bolder;
+  line-height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 59px;
+  width: 255px;
+  border-radius: 15px;
+  margin-top: 21px;
+  background: #84c7ae;
+  text-decoration: none;
+  color: white;
+}
+.boton {
+  display: flex;
+  justify-content: center;
+}
+.final {
+  font-family: "Karla", sans-serif;
+  font-weight: lighter;
+  margin-top: 11px;
+  text-align: center;
+}
